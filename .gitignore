@@ -1,2 +1,14 @@
 eje83
 *.swp
+./.git/hooks/update.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-receive.sample
+./eje83
